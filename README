@@ -1,6 +1,10 @@
 WELCOME.
 
-This is the source code for the SONGLINES web app. It will be integrated with the existing blog at songlinesmusic.com and serve as a tool for radio adds tracking. The app scrapes data from FMQB.com, mediabase.com, and Nielsen DTS, integrates it into a sqlite3 database, and displays it in interesting ways. Labels, pluggers, radio stations, and artists will each have an interest in owning an account here, because it is by far the most accurate and useful collection of such information on the web.
+This is the source code for the SONGLINES web app. It will be integrated with the existing blog at 
+songlinesmusic.com and serve as a tool for radio adds tracking. The app scrapes data from FMQB.com, 
+mediabase.com, and Nielsen DTS, integrates it into a sqlite3 database, and displays it in interesting 
+ways. Labels, pluggers, radio stations, and artists will each have an interest in owning an account 
+here, because it is by far the most accurate and useful collection of such information on the web.
 
 As of 7/13/2012, the FMQB scraper is complete and this week's data has been pushed to the DB.
 
