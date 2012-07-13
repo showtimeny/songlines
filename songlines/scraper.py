@@ -62,8 +62,8 @@ br.open('http://triplea.fmqb.com/home.aspx')
 br.select_form(nr=0)
 
 # User credentials
-br.form['txtUser'] = 'scoakley'
-br.form['txtPass'] = 'sophie'
+br.form['txtUser'] = ''
+br.form['txtPass'] = ''
 
 # Login
 br.submit()
